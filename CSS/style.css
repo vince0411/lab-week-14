@@ -33,11 +33,11 @@ input[type=submit] {
   font-family: 'Fresca', sans-serif;
   width: 50%;
   background-color: #d19e5a;
-  color: #1c4a0d;
+  color: #e80909;
   padding: 14px 20px;
   margin: 8px 0;
   border-radius: 4px;
-  border: 8px solid #5440d6;
+  border: 8px solid #206e06;
   cursor: pointer;
 }
 
@@ -46,20 +46,20 @@ input:hover {
 }
 
 textarea {
-height: 300px;
-width: 675px;
-background-color: #afcf10;
-border-radius: 5px;
-caret-color: #ea9a97;
-font-size: 1rem;
+ height: 300px;
+ width: 675px;
+ background-color: #afcf10;
+ border-radius: 5px;
+ caret-color: #ea9a97;
+ font-size: 1rem;
 }
 
 
 h1 {
-color: #5528eb;
+ color: #5528eb;
 }
 
 p {
-color: #4d1e1a;
+ color: #4d1e1a;
 }
 
