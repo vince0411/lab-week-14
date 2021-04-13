@@ -1,0 +1,65 @@
+* {
+background-color: #eb7d75;
+font-family: 'Fresca', sans-serif;
+}
+
+input[type=text], select {
+  font-family: 'Fresca', sans-serif;
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 8px solid #5440d6;
+  background-color: #3b0840;
+  border-radius: 4px;
+  color: #e06655;
+  box-sizing: border-box;
+}
+
+input[type=email], select {
+  font-family: 'Fresca', sans-serif;
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 8px solid #5440d6;
+  background-color: #3b0840;
+  border-radius: 4px;
+  color: #e06655;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  font-family: 'Fresca', sans-serif;
+  width: 50%;
+  background-color: #d19e5a;
+  color: #1c4a0d;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border-radius: 4px;
+  border: 8px solid #5440d6;
+  cursor: pointer;
+}
+
+input:hover {
+  background-color: #a0e6e8;
+}
+
+textarea {
+height: 300px;
+width: 675px;
+background-color: #afcf10;
+border-radius: 5px;
+caret-color: #ea9a97;
+font-size: 1rem;
+}
+
+
+h1 {
+color: #5528eb;
+}
+
+p {
+color: #4d1e1a;
+}
+
