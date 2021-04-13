@@ -9,7 +9,7 @@ input[type=text], select {
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 8px solid #5440d6;
+  border: 8px solid #0dba95;
   background-color: #3b0840;
   border-radius: 4px;
   color: #e06655;
@@ -22,7 +22,7 @@ input[type=email], select {
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 8px solid #5440d6;
+  border: 8px solid #0dba95;
   background-color: #3b0840;
   border-radius: 4px;
   color: #e06655;
@@ -52,6 +52,7 @@ textarea {
  border-radius: 5px;
  caret-color: #ea9a97;
  font-size: 1rem;
+  color: #001575;
 }
 
 
@@ -60,6 +61,6 @@ h1 {
 }
 
 p {
- color: #4d1e1a;
+ color: #750008;
 }
 
